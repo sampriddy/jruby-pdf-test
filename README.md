@@ -16,4 +16,4 @@ Java 11.0.5
 
 Run any of the `*_test.rb` files with `jruby`.
 
-Upon completion, the test will output a pdf to the output folder.
+Upon completion, the test will write a pdf to `{repo_base_dir}/output`.
