@@ -14,6 +14,6 @@ Java 11.0.5
 
 ## Usage
 
-Use the `jruby` with a filepath for one of the test.rb files.
+Run any of the `*_test.rb` files with `jruby`.
 
 Upon completion, the test will output a pdf to the output folder.
