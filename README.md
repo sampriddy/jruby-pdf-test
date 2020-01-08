@@ -9,6 +9,7 @@ This also demonstrates image extraction and resizing of image contents to fit ar
 ## Dependencies
 
 JRuby 9.1.17.0
+
 Java 11.0.5
 
 ## Usage
